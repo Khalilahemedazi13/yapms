@@ -1,0 +1,138 @@
+{
+  "title": "Delhi Assembly Elections 2025",
+  "regions": [
+    {
+      "name": "New Delhi",
+      "fill": "#FF0000",
+      "id": "1"
+    },
+    {
+      "name": "Sadar Bazar",
+      "fill": "#00FF00",
+      "id": "2"
+    },
+    {
+      "name": "Chandni Chowk",
+      "fill": "#0000FF",
+      "id": "3"
+    },
+    {
+      "name": "Matia Mahal",
+      "fill": "#FFFF00",
+      "id": "4"
+    },
+    {
+      "name": "Ballimaran",
+      "fill": "#FF00FF",
+      "id": "5"
+    },
+    {
+      "name": "Karol Bagh",
+      "fill": "#00FFFF",
+      "id": "6"
+    },
+    {
+      "name": "Patel Nagar",
+      "fill": "#FFA500",
+      "id": "7"
+    },
+    {
+      "name": "Moti Nagar",
+      "fill": "#800080",
+      "id": "8"
+    },
+    {
+      "name": "Madipur",
+      "fill": "#008000",
+      "id": "9"
+    },
+    {
+      "name": "Rajouri Garden",
+      "fill": "#000080",
+      "id": "10"
+    },
+    {
+      "name": "Hari Nagar",
+      "fill": "#808000",
+      "id": "11"
+    },
+    {
+      "name": "Tilak Nagar",
+      "fill": "#800000",
+      "id": "12"
+    },
+    {
+      "name": "Janakpuri",
+      "fill": "#008080",
+      "id": "13"
+    },
+    {
+      "name": "Vikaspuri",
+      "fill": "#C0C0C0",
+      "id": "14"
+    },
+    {
+      "name": "Uttam Nagar",
+      "fill": "#808080",
+      "id": "15"
+    },
+    {
+      "name": "Dwarka",
+      "fill": "#FFD700",
+      "id": "16"
+    },
+    {
+      "name": "Matiala",
+      "fill": "#4B0082",
+      "id": "17"
+    },
+    {
+      "name": "Najafgarh",
+      "fill": "#FF6347",
+      "id": "18"
+    },
+    {
+      "name": "Bijwasan",
+      "fill": "#4682B4",
+      "id": "19"
+    },
+    {
+      "name": "Palam",
+      "fill": "#D2B48C",
+      "id": "20"
+    }
+  ],
+  "states": [
+    {
+      "name": "Delhi",
+      "fill": "#FFFFFF",
+      "id": "21"
+    }
+  ],
+  "viewBox": "0 0 1000 1000",
+  "legend": {
+    "title": "Delhi Assembly Elections 2025",
+    "colors": [
+      {
+        "name": "Party A",
+        "fill": "#FF0000"
+      },
+      {
+        "name": "Party B",
+        "fill": "#00FF00"
+      },
+      {
+        "name": "Party C",
+        "fill": "#0000FF"
+      },
+      {
+        "name": "Party D",
+        "fill": "#FFFF00"
+      },
+      {
+        "name": "Party E",
+        "fill": "#FF00FF"
+      }
+    ]
+  }
+}
